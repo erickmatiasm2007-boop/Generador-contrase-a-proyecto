@@ -69,8 +69,6 @@ python "generador avanzado.py"
 6. Elegir si desea incluir números.
 7. El programa mostrará una contraseña generada aleatoriamente.
 
----
-
 
 ================================
  GENERADOR DE CONTRASEÑAS
