@@ -71,9 +71,7 @@ python "generador avanzado.py"
 
 ---
 
-## 💻 Ejemplo de ejecución
 
-```
 ================================
  GENERADOR DE CONTRASEÑAS
 ================================
@@ -98,12 +96,7 @@ Ab7KxLm2QwRt
 
 ## 👨‍💻 Autor
 
-**Matías Mendoza**
+**Erick Mendoza**
 
 Proyecto desarrollado como trabajo final de la asignatura de Programación en la Universidad Internacional del Ecuador (UIDE).
 
----
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines académicos.
